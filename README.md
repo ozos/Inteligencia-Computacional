@@ -1,7 +1,7 @@
 # Inteligencia-Computacional
 Projects for the Computational Intelligence Course:
 
-* cifrador. It's a text cipher using elementary cellular automatons (4 different rules). It generates an image to visuliaze the process.
+* cifrador. It's a text cipher using elementary cellular automatons (4 rules). It generates an image to visuliaze the process.
  	
  	*  Example: ![alt text][ExampleCifrador]
 
