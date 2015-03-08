@@ -5,7 +5,7 @@ Projects for the Computational Intelligence Course:
  	
  	*  Example: ![alt text][ExampleCifrador]
 
-* Agente Viajero. It's a TSP solver using a genetic algorithm. It generates an image to visuliaze a first solution and other image to visualize a better solution after some new generations.
+* Agente Viajero. It's a TSP solver using a genetic algorithm. It generates an image to visuliaze a first solution and another image to visualize a better solution after some new generations.
  	
  	*  Example: 
  	  * First Solution ![alt text][ExampleTSPfirst]
